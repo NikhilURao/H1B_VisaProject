@@ -49,8 +49,8 @@ public static class MyReducer extends Reducer<Text,Text,Text,FloatWritable>
 public static void main(String [] args) throws IOException, ClassNotFoundException, InterruptedException
 {
 	Configuration conf = new Configuration();
-	Job job = Job.getInstance(conf , "Q9");
-	job.setJarByClass(q6.class);
+	Job job = Job.getInstance(conf , "Q10");
+	job.setJarByClass(q10.class);
 	job.setMapperClass(MyMapper.class);
 	job.setReducerClass(MyReducer.class);
 	job.setNumReduceTasks(1);

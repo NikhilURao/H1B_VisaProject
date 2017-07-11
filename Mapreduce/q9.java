@@ -49,7 +49,7 @@ public static void main(String [] args) throws IOException, ClassNotFoundExcepti
 {
 	Configuration conf = new Configuration();
 	Job job = Job.getInstance(conf , "Q9");
-	job.setJarByClass(q6.class);
+	job.setJarByClass(q9.class);
 	job.setMapperClass(MyMapper.class);
 	job.setReducerClass(MyReducer.class);
 	job.setNumReduceTasks(1);
