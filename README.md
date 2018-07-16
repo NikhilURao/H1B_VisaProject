@@ -1,3 +1,5 @@
+H1B Visa Case Study
+
 This repository contains the H1B_Visa Applicants Data Analysis project/case study using Hadoop undertaken during the training at NIIT. MapReduce,Hive,Pig,Scoop and Shell-scripting are the technologies used.
 
 H1-B Case Study
@@ -7,12 +9,12 @@ The H1B is an employment-based, non-immigrant visa category for temporary foreig
 We will be performing analysis on the H1B visa applicants between the years 2011-2015. After analyzing the data, we can derive the following facts.
 
 1 a) Is the number of petitions with Data Engineer job title increasing over time?
-   b) Find top 5 job titles who are having highest avg growth in applications.
+  b) Find top 5 job titles who are having highest avg growth in applications.
 
 Avg growth = ((count in 2011 – count in2016)*100)/count in 2011
 
 2 a) Which part of the US has the most Data Engineer jobs for each year?
-   b) find top 5 locations in the US who have got certified visa for each year.
+  b) find top 5 locations in the US who have got certified visa for each year.
 
 3)Which industry(SOC_NAME) has the most number of Data Scientist positions?
 
@@ -62,15 +64,15 @@ WORKSITE: City and State information of the foreign worker’s intended area of 
 lon: longitude of the Worksite
 lat: latitude of the Worksite
 
-Use all the following tools
+Use of all the following tools
 HDFS
-MapReduce - any 4 programs
-Hive - any 4 programs
-Pig - any 4 programs
+MapReduce - 4 programs
+Hive - 4 programs
+Pig - 4 programs
 Sqoop
 Mysql
 Excel
-Project should Menu based using shell script in Unix
+Project is a menu based using shell script in Unix
 
 
 Case Status
