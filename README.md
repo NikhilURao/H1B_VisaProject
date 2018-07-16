@@ -1,8 +1,6 @@
-H1B Visa Case Study
-
 This repository contains the H1B_Visa Applicants Data Analysis project/case study using Hadoop undertaken during the training at NIIT. MapReduce,Hive,Pig,Scoop and Shell-scripting are the technologies used.
 
-H1-B Case Study
+H1-B Visa Case Study
 
 The H1B is an employment-based, non-immigrant visa category for temporary foreign workers in the United States. For a foreign national to apply for H1B visa, an US employer must offer a job and petition for H1B visa with the US immigration department. This is the most common visa status applied for and held by international students once they complete college/ higher education (Masters, Ph.D.) and work in a full-time position.
 
